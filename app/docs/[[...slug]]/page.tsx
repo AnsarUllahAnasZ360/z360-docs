@@ -16,9 +16,28 @@ export default async function Page(props: {
   if (!page) notFound();
 
   const MDX = page.data.body;
+  const path = `content/docs/${page.file.path}`;
 
   return (
-    <DocsPage toc={page.data.toc} full={page.data.full}>
+    <DocsPage
+      toc={page.data.toc}
+      full={page.data.full}
+      tableOfContent={{
+        style: 'clerk',
+        single: false,
+      }}
+      breadcrumb={{
+        enabled: true,
+        includePage: true,
+      }}
+      editOnGithub={{
+        repo: 'z360-docs',
+        owner: 'AnsarUllahAnasZ360',
+        sha: 'main',
+        path,
+      }}
+      lastUpdate={page.data.lastModified}
+    >
       <DocsTitle>{page.data.title}</DocsTitle>
       <DocsDescription>{page.data.description}</DocsDescription>
       <DocsBody>
