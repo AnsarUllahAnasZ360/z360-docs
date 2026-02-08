@@ -1,0 +1,12 @@
+{
+  "title": "System Context",
+  "pages": [
+    "system-architecture-unified",
+    "flows-unified",
+    "control-flows",
+    "data-flows",
+    "external-services-map",
+    "mobile-platform-architecture",
+    "web-platform-architecture"
+  ]
+}

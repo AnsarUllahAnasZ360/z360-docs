@@ -1,0 +1,13 @@
+{
+  "title": "Technology Landscape",
+  "pages": [
+    "platform-requirements-unified",
+    "android-platform-requirements",
+    "ios-platform-requirements",
+    "capacitor-architecture",
+    "telnyx-reference-unified",
+    "telnyx-call-control-api",
+    "telnyx-sdks-reference",
+    "telnyx-credentials-and-push"
+  ]
+}

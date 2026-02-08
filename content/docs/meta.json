@@ -1,0 +1,14 @@
+{
+  "title": "Z360 Documentation",
+  "pages": [
+    "index",
+    "---",
+    "system-context",
+    "technology-landscape",
+    "platform-architectures",
+    "call-management",
+    "integration-architecture",
+    "edge-cases",
+    "configuration"
+  ]
+}

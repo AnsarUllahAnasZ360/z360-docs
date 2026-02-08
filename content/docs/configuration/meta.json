@@ -1,0 +1,8 @@
+{
+  "title": "Configuration",
+  "pages": [
+    "configuration-complete",
+    "configuration-reference",
+    "build-and-deployment"
+  ]
+}

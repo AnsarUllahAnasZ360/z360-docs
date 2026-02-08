@@ -1,0 +1,17 @@
+{
+  "title": "Platform Architectures",
+  "pages": [
+    "android-architecture-complete",
+    "android-current-state",
+    "android-target-architecture",
+    "android-gap-analysis",
+    "ios-architecture-complete",
+    "ios-current-state",
+    "ios-target-architecture",
+    "ios-gap-analysis",
+    "web-laravel-architecture-complete",
+    "web-laravel-architecture-and-gaps",
+    "laravel-current-state",
+    "web-client-current-state"
+  ]
+}

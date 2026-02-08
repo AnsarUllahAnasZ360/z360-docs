@@ -1,0 +1,20 @@
+{
+  "title": "Call Management",
+  "pages": [
+    "call-state-complete",
+    "call-state-machine",
+    "call-state-synchronization",
+    "credentials-unified",
+    "credential-lifecycle",
+    "authentication-and-security",
+    "inbound-call-flow-unified",
+    "inbound-call-backend-flow",
+    "inbound-call-web-flow",
+    "inbound-call-android-flow",
+    "inbound-call-ios-flow",
+    "simultaneous-ringing-complete",
+    "simring-happy-path",
+    "simring-failure-modes",
+    "simring-alternatives-research"
+  ]
+}
