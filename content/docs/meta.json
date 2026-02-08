@@ -2,6 +2,7 @@
   "title": "Z360 Documentation",
   "pages": [
     "index",
+    "architecture-diagrams",
     "---",
     "system-context",
     "technology-landscape",
