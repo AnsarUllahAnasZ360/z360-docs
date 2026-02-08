@@ -4,6 +4,8 @@ title: Laravel Current State
 
 # Laravel Backend Call Orchestration: Current State
 
+![Laravel Backend Call Orchestration](/diagrams/laravel-backend-call-orchestration.jpeg)
+
 > **Research date**: 2026-02-08
 > **Source**: voip-backend skill (`/.claude/skills/voip-backend/references/files.md`) + live source files
 > **Scope**: Complete documentation of the Z360 Laravel backend VoIP call management system

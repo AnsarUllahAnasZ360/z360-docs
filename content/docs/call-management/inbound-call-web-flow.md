@@ -4,6 +4,8 @@ title: Inbound Call Web Flow
 
 # Web Inbound Call Flow — Complete Trace
 
+![Web Inbound Call Flow](/diagrams/web-inbound-call-flow.jpeg)
+
 **Document**: Inbound Call Web Flow
 **Author**: Teammate D (web-tracer)
 **Date**: 2026-02-08

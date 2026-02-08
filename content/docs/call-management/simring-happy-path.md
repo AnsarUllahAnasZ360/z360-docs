@@ -4,6 +4,8 @@ title: Simring Happy Path
 
 # Simultaneous Ringing — Happy-Path Flow (Code Evidence)
 
+![Simultaneous Ringing](/diagrams/sim-ring.jpeg)
+
 > **Research Task #1** | Date: 2026-02-08
 > **Scope**: Complete happy-path simultaneous ring flow with exact code references for every step
 > **Sources**: voip-backend skill, voip-android skill, voip-ios skill, voip-frontend skill

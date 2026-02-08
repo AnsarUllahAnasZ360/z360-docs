@@ -4,6 +4,8 @@ title: Push Credential Configuration
 
 # Push Credential Configuration
 
+![Push Credential Configuration and Delivery Flows](/diagrams/push-credential-configuration-flows.jpeg)
+
 **Research Agent:** Teammate C: Push Credential Configuration Analyst
 **Date:** 2026-02-08
 **Status:** Complete

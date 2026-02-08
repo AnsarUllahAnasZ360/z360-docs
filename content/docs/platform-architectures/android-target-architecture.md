@@ -4,6 +4,8 @@ title: Android Target Architecture
 
 # Android VoIP Target Architecture
 
+![Android Target Component Diagram](/diagrams/android-target-component-diagram.jpeg)
+
 > Defines the ideal architecture for Z360's Android VoIP implementation. Designed from first principles using patterns from the Telnyx Android SDK, Telnyx demo app, Android platform requirements, and Capacitor bridge constraints. Every design decision is justified by reference to platform requirements, SDK patterns, or Z360-specific needs.
 
 ---

@@ -4,6 +4,8 @@ title: Data Flows
 
 # Z360 VoIP Data Flows
 
+![Inbound Call End-to-End Flow](/diagrams/inbound-call-end-to-end.jpeg)
+
 This document traces 5 critical data flows through the Z360 VoIP system, documenting the exact data shape at each transformation point with verified file references.
 
 ---

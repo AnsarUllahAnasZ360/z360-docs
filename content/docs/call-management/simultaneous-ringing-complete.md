@@ -4,6 +4,8 @@ title: Simultaneous Ringing Complete
 
 # Z360 Simultaneous Ringing: Complete Whitepaper
 
+![Simultaneous Ringing End-to-End](/diagrams/simultaneous-ringing-end-to-end.jpeg)
+
 > **Version**: 1.0 | **Date**: 2026-02-08
 > **Status**: Deep-dive research complete
 > **Sources**: Z360 codebase (voip-backend/android/ios/frontend skills), Telnyx PHP/Web/iOS/Android SDK packs, Telnyx official docs, Twilio/Vonage docs

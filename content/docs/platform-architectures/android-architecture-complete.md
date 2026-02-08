@@ -4,6 +4,8 @@ title: Android Architecture Complete
 
 # Android Architecture Complete — Z360 VoIP
 
+![Android Architecture Overview](/diagrams/android-architecture-overview.jpeg)
+
 > Unified document combining current state analysis, target architecture design, and gap analysis for Z360's Android VoIP system. This is the definitive reference for the Android VoIP implementation roadmap.
 
 ---

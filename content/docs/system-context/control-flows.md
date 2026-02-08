@@ -4,6 +4,8 @@ title: Control Flows
 
 # Z360 VoIP Control Flows
 
+![How Calling Works](/diagrams/how-calling-works.jpeg)
+
 This document traces the exact sequence of control through the Z360 VoIP system for six critical flows. For each step: **trigger**, **owner**, **data exchanged**, **what can go wrong**, and **file references**.
 
 ---

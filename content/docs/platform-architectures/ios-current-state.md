@@ -4,6 +4,8 @@ title: iOS Current State
 
 # iOS VoIP Current State — Z360
 
+![iOS Component Diagram](/diagrams/ios-component-diagram.jpeg)
+
 > **Scope**: Complete documentation of the current Z360 iOS VoIP implementation across 25 Swift files (10,724 lines).
 > **Date**: 2026-02-08
 > **Sources**: voip-ios skill (`.claude/skills/voip-ios/`), Telnyx iOS SDK pack (`telnyx-ios-sdk.xml`), prerequisite whitepaper documents.

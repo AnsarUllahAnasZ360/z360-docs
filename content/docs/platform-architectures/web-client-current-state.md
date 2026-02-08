@@ -4,6 +4,8 @@ title: Web Client Current State
 
 # Web Client VoIP Implementation — Current State
 
+![Web Client VoIP Implementation](/diagrams/web-client-voip-implementation.jpeg)
+
 ## Table of Contents
 
 1. [Architecture Overview](#1-architecture-overview)

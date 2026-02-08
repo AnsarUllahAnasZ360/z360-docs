@@ -4,6 +4,8 @@ title: Inbound Call Android Flow
 
 # Android Inbound Call Flow — Complete Trace
 
+![Android Inbound Call Flow](/diagrams/android-inbound-call-flow.jpeg)
+
 > **Session 09 Research** — Android Inbound Call Tracer
 > Traces the complete inbound call lifecycle on Android from push notification to call completion.
 

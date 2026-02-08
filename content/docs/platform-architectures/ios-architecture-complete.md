@@ -4,6 +4,8 @@ title: iOS Architecture Complete
 
 # Z360 iOS Architecture: Complete Reference
 
+![iOS Architecture](/diagrams/ios-architecture.jpeg)
+
 > **Scope**: Comprehensive iOS VoIP architecture document synthesizing current implementation state, target architecture, and gap analysis with prioritized implementation roadmap.
 >
 > **Date**: 2026-02-08

@@ -4,6 +4,8 @@ title: Call State Machine
 
 # Z360 VoIP Call State Machine: Unified Reference
 
+![Z360 Distributed Call State Machine](/diagrams/distributed-call-state-machine.jpeg)
+
 > **Session 10** | **Date**: 2026-02-08
 > **Author**: state-machine-designer
 > **Scope**: Canonical call state machine definition across Web, iOS, Android, Backend, and Telnyx SDKs

@@ -4,6 +4,8 @@ title: Inbound Call iOS Flow
 
 # iOS Inbound Call Flow: Complete Trace
 
+![iOS Inbound Call Flow](/diagrams/ios-call-flow.jpeg)
+
 > **Platform**: iOS (Swift)
 > **Sources**: voip-ios skill (`.claude/skills/voip-ios/`), ios-current-state.md, mobile-platform-architecture.md
 > **Date**: 2026-02-08

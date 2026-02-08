@@ -4,6 +4,8 @@ title: Inbound Call Flow Unified
 
 # Inbound Call Flow — Unified End-to-End Analysis
 
+![Unified End-to-End Inbound Call Flow](/diagrams/unified-inbound-call-flow.jpeg)
+
 > **Session 09 Synthesis** | Date: 2026-02-08
 > **Sources**: Backend trace (36KB), Android trace (60KB), iOS trace (92KB), Web trace (52KB)
 > **Scope**: Complete inbound call lifecycle from PSTN caller to call completion across all platforms

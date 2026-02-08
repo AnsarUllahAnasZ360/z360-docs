@@ -4,6 +4,8 @@ title: Android Current State
 
 # Android VoIP Current State — Component Documentation
 
+![Android Threading Model](/diagrams/android-threading-model.jpeg)
+
 > Generated from Z360 Android source code analysis.
 > All file paths relative to `android/app/src/main/java/com/z360/app/`.
 

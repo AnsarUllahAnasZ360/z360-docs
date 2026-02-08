@@ -4,6 +4,8 @@ title: Call State Synchronization
 
 # Cross-Platform Call State Synchronization
 
+![Z360 Call State Synchronization](/diagrams/call-state-synchronization.jpeg)
+
 > **Session 10 Analysis** | Date: 2026-02-08
 > **Analyst**: sync-analyst
 > **Context**: Z360 VoIP whitepaper research — multi-device state synchronization, web UI coordination, backend state tracking, analytics, and call history

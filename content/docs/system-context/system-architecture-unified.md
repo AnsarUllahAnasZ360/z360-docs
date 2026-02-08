@@ -4,6 +4,8 @@ title: System Architecture Unified
 
 # Z360 Unified System Architecture
 
+![Master System Diagram](/diagrams/master-system-diagram.jpeg)
+
 This document synthesizes three research perspectives — web platform, mobile platforms, and external services — into a single coherent view of the Z360 system architecture.
 
 ---
