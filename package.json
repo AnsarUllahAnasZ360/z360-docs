@@ -9,13 +9,19 @@
     "postinstall": "fumadocs-mdx"
   },
   "dependencies": {
+    "@ai-sdk/azure": "^3.0.27",
+    "@ai-sdk/react": "^3.0.79",
+    "ai": "^6.0.77",
     "fumadocs-core": "^15.0.0",
     "fumadocs-mdx": "^11.0.0",
     "fumadocs-ui": "^15.0.0",
     "geist": "^1.7.0",
+    "lucide-react": "^0.563.0",
     "next": "^15.0.0",
+    "openai": "^6.18.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.0",
